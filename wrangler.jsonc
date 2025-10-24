@@ -1,0 +1,10 @@
+{
+  "name": "alexa-password-worker",
+  "main": "src/index.ts",
+  "compatibility_date": "2025-10-24",
+  "compatibility_flags": ["nodejs_compat"],
+  "workers_dev": true,
+  "vars": {
+    "SKILL_ID": "amzn1.ask.skill.e22ccd9b-227b-4b07-9113-0634b70b0c88"
+  }
+}
