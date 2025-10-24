@@ -6,5 +6,15 @@
   "workers_dev": true,
   "vars": {
     "SKILL_ID": "amzn1.ask.skill.e22ccd9b-227b-4b07-9113-0634b70b0c88"
+  },
+  "observability": {
+    "enabled": false,
+    "head_sampling_rate": 1,
+    "logs": {
+      "enabled": true,
+      "head_sampling_rate": 1,
+      "persist": true,
+      "invocation_logs": true
+    }
   }
 }
