@@ -5,6 +5,7 @@
   "compatibility_flags": ["nodejs_compat"],
   "workers_dev": true,
   "vars": {
+    "DEBUG": "1",
     "SKILL_ID": "amzn1.ask.skill.e22ccd9b-227b-4b07-9113-0634b70b0c88"
   },
   "observability": {
